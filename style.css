@@ -202,22 +202,22 @@ h1, h2, h3, h4, h5, h6 {
   }
   .nav-menu a span {
     display: none;
-    color: gray;
+    color: white;
   }
 }
 
 .nav-menu a:hover, .nav-menu .active, .nav-menu li:hover > a {
-  color: gray;
+  color: white;
   background: black;
 }
 
 .nav-menu a:hover span, .nav-menu .active span, .nav-menu li:hover > a span {
-  color: gray;
+  color: white;
 }
 
 .nav-menu a:hover, .nav-menu li:hover > a {
   width: 100%;
-  color: gray;
+  color: white;
 }
 
 .nav-menu a:hover span, .nav-menu li:hover > a span {
@@ -257,7 +257,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .mobile-nav-active .mobile-nav-toggle {
   color: #fff;
-  background-color: #0563bb;
+  background-color: gray;
 }
 
 /*--------------------------------------------------------------
@@ -980,11 +980,11 @@ section {
   height: 12px;
   background-color: #fff;
   opacity: 1;
-  border: 1px solid #0563bb;
+  border: 1px solid gray;
 }
 
 .testimonials .swiper-pagination .swiper-pagination-bullet-active {
-  background-color: #0563bb;
+  background-color: gray;
 }
 
 @media (min-width: 992px) {
@@ -1003,7 +1003,7 @@ section {
 
 .contact .info i {
   font-size: 20px;
-  color: #0563bb;
+  color: gray;
   float: left;
   width: 44px;
   height: 44px;
@@ -1035,7 +1035,7 @@ section {
 }
 
 .contact .info .email:hover i, .contact .info .address:hover i, .contact .info .phone:hover i {
-  background: #0563bb;
+  background: gray;
   color: #fff;
 }
 
@@ -1114,7 +1114,7 @@ section {
 }
 
 .contact .php-email-form button[type="submit"]:hover {
-  background: #0678e3;
+  background: gray;
 }
 
 @-webkit-keyframes animate-loading {
@@ -1169,7 +1169,7 @@ section {
 #footer .social-links a {
   font-size: 18px;
   display: inline-block;
-  background: #0563bb;
+  background: gray;
   color: #fff;
   line-height: 1;
   padding: 8px 0;
@@ -1182,7 +1182,7 @@ section {
 }
 
 #footer .social-links a:hover {
-  background: #0678e3;
+  background: gray;
   color: #fff;
   text-decoration: none;
 }
