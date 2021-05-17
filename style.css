@@ -1,11 +1,4 @@
-/**
-* Template Name: MyResume - v4.1.0
-* Template URL: https://bootstrapmade.com/free-html-bootstrap-template-my-resume/
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
-*/
-
-/*--------------------------------------------------------------
+/**--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
 html{
@@ -1037,6 +1030,7 @@ section {
 .contact .info .email:hover i, .contact .info .address:hover i, .contact .info .phone:hover i {
   background: gray;
   color: gray;
+  background-color: gray;
 }
 
 .contact .php-email-form {
